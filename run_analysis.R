@@ -1,10 +1,4 @@
 #run_analysis.R
-#Kathy Ashenfelter
-#Getting and Cleaning Data
-# July 2017
-#install.packages("dplyr")
-#install.packages("data.table")
-#Load packages
 library(data.table)
 library(dplyr)
 
